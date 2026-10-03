@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**miron302/miron302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MIRON302
 
-Here are some ideas to get you started:
+### macOS • iOS • Swift • Reverse Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building weird things for Apple platforms.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miron302)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://www.swift.org/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Miron**, a developer who spends an unreasonable amount of time messing with
+macOS, iOS, and things Apple probably didn't intend people to mess with.
+
+I like building tools that make complicated things feel simple.
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  > current_focus                            │
+│                                             │
+│  macOS development                          │
+│  iOS customization & research               │
+│  reverse engineering                         │
+│  making unnecessarily complicated things     │
+│  unnecessarily simple                        │
+│                                             │
+└─────────────────────────────────────────────┘
