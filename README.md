@@ -14,10 +14,30 @@ Building cool shit for apple platforms.
 
 ---
 
-## 👋 About Me
+                     ..'          root@Mirons-MacBook-Pro
+                 ,xNMM.           ------------------------
+               .OMMMMo            OS: macOS Sequoia 15.8.1 (24H212) x86_64
+               lMM"               Host: MacBook Pro (16-inch, 2019) (1.0)
+     .;loddo:.  .olloddol;.       Kernel: Darwin 24.6.0
+   cKMMMMMMMMMMNWMMMMMMMMMM0:     Uptime: 24 days, 6 hours, 3 mins
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.     Packages: 120 (brew), 1 (brew-cask)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.       Shell: zsh 5.9
+;MMMMMMMMMMMMMMMMMMMMMMMM:        Display (LS32R750Q): 2560x1440 in 31", 144 Hz [External] *
+:MMMMMMMMMMMMMMMMMMMMMMMM:        Display (LG ULTRAGEAR): 1920x1080 in 24", 144 Hz [External]
+.MMMMMMMMMMMMMMMMMMMMMMMMX.       Window Manager: Quartz Compositor 1.600.0 (with Rectangle 1.100)
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.     WM Theme: Multicolor (Dark)
+ 'XMMMMMMMMMMMMMMMMMMMMMMMMMMk    Theme: Aqua
+  'XMMMMMMMMMMMMMMMMMMMMMMMMK.    Font: .AppleSystemUIFont [System], Helvetica [User]
+    kMMMMMMMMMMMMMMMMMMMMMMd      Cursor: Fill - Black, Outline - White (32px)
+     ;KMMMMMMMWXXWMMMMMMMk.       Terminal: ghostty 1.3.1
+       "cooc*"    "*coo'"         Terminal Font: JetBrainsMono Nerd Font (13pt)
+                                  CPU: Intel(R) Core(TM) i7-9750H (12) @ 2.60 GHz
+                                  GPU 1: Intel UHD Graphics 630 [Integrated]
+                                  GPU 2: AMD Radeon Pro 5300M [Discrete]
+                                  Memory: 13.13 GiB / 32.00 GiB (42%)
+                                  Swap: 2.90 GiB / 4.00 GiB (73%)
+                                  Disk (/): 417.38 GiB / 465.63 GiB (90%) - apfs [Read-only]
 
-I'm **Miron**, a developer who spends an unreasonable amount of time messing with
-macOS, iOS, and things Apple probably didn't intend people to mess with. 
 
 ## Some things about me
 
