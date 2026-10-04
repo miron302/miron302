@@ -12,18 +12,18 @@ Building cool shit for apple platforms.
 
 </div>
 
-
+```text
                      ..'          System Information
                  ,xNMM.           ------------------------
                .OMMMMo            OS: macOS Sequoia 15.8.1 (24H212) x86_64
                lMM"               Kernel: Darwin 24.6.0
      .;loddo:.  .olloddol;.       Shell: zsh 5.9
      cKMMMMMMMMMMNWMMMMMMMMMM0:   Window Manager: Quartz Compositor
-   .KMMMMMMMMMMMMMMMMMMMMMMMWd.   WM Configuration: Rectangle
+   .KMMMMMMMMMMMMMMMMMMMMMMWd.    WM Configuration: Rectangle
  .KMMMMMMMMMMMMMMMMMMMMMMMMMMW:   Theme: Aqua (Dark)
  XMMMMMMMMMMMMMMMMMMMMMMMMMMMX.   Terminal: Ghostty 1.3.1
 ;MMMMMMMMMMMMMMMMMMMMMMMMMMMM:    Terminal Font: JetBrainsMono Nerd Font
-:MMMMMMMMMMMMMMMMMMMMMMMMMMMM:    
+:MMMMMMMMMMMMMMMMMMMMMMMMMMMM:
 .MMMMMMMMMMMMMMMMMMMMMMMMMMMMX.   CPU: Intel Core i7-9750H
  kMMMMMMMMMMMMMMMMMMMMMMMMMMMMWd  GPU: Intel UHD Graphics 630
  'XMMMMMMMMMMMMMMMMMMMMMMMMMMMMk  GPU: AMD Radeon Pro 5300M
@@ -32,7 +32,7 @@ Building cool shit for apple platforms.
      ;KMMMMMMMWXXWMMMMMMMk.      Display: 2560×1440 @ 144 Hz
        "cooc*"    "*coo'"        Display: 1920×1080 @ 144 Hz
                                   Storage: 465.63 GiB APFS
-
+```
 
 ## Some things about me
 
